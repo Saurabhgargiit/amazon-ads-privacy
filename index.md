@@ -18,6 +18,7 @@ Data is used only for:
 - Campaign analysis
 - Bid optimization
 - Performance reporting
+  
 
 ## Data Sharing
 We do not share data with any third party.
